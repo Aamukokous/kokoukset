@@ -1,1 +1,1 @@
-![Aamukokous banner](./readme/moominwojak.jpg)
+![Aamukokous banner](./readme/moominwojak.png)
